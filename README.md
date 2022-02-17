@@ -6,6 +6,6 @@
 
 🌱 I’m currently learning React.
 
-❤️ I'm interested in all domains of technology, including but not limited to: full-stack development, mobile app development, and web development.
+❤️ I'm interested in full-stack development.
 
 ⚡ Fun fact: I was part of a j-pop flash mob dance once!
